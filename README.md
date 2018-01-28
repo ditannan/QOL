@@ -1,2 +1,2 @@
 # QOL
-## Explor quality of life in the data of baseline.
+## Explore quality of life in the data of baseline.
